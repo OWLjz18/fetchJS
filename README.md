@@ -47,7 +47,7 @@ export default
 }`
 ```
 
-**_NOTA_**: No necesariamente sus datos deben estar dentro de las llaves, ya que al ser formato _JSON_, usted perfectamente puede tener un array de objetos (o lo que desee), cuándo digo que la estructura debe ser esa, me refiero a que debe tener el **export default** y sus datos deben estar dentro de las comillas invertidos (**``**).
+**_NOTA_**: No necesariamente sus datos deben estar dentro de las llaves, ya que al ser formato _JSON_, usted perfectamente puede tener un array de objetos (o lo que desee), cuándo digo que la estructura debe ser esa, me refiero a que debe tener el **export default** y sus datos deben estar dentro de las comillas invertidas (**``**).
 
 #### Ejemplo: ####
 
