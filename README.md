@@ -4,15 +4,15 @@ Es una función que se encargará de importar el contenido de un archivo que ten
 
 - - -
 
-### 📝 Pre-Requisitos. 📝 ###
+### 📝 Pre-Requisitos ###
 
   * [Git](https://git-scm.com/) Lo usaremos para clonar el repositorio.
 
 - - -
 
-### 🔧 Instalación. 🔧 ### 
+### 🔧 Instalación ### 
 
-Diríjase al proyecto en que desea implementarlo y realice un:
+Diríjase al proyecto en que desea implementarlo, abra su terminal y realice un:
 
 ``` sh
 git clone 'https://github.com/OWLjz18/fetchJS.git'
@@ -20,7 +20,7 @@ git clone 'https://github.com/OWLjz18/fetchJS.git'
 
 - - -
 
-### 🔎 Uso. 🔎 ###
+### 🔎 Uso ###
 
 #### Sintaxis: ####
 ``` javascript
@@ -47,7 +47,7 @@ export default
 }`
 ```
 
-**_NOTA_**: No necesariamente sus datos deben estar dentro de las llaves, ya que al ser formato _JSON_, usted perfectamente puede tener un array de objetos (o lo que desee), cuándo digo que la estructura debe ser esa, me refiero a que debe tener el **export default** y sus datos deben estar dentro de los acentos invertidos (**``**).
+**_NOTA_**: No necesariamente sus datos deben estar dentro de las llaves, ya que al ser formato _JSON_, usted perfectamente puede tener un array de objetos (o lo que desee), cuándo digo que la estructura debe ser esa, me refiero a que debe tener el **export default** y sus datos deben estar dentro de las comillas invertidos (**``**).
 
 #### Ejemplo: ####
 
@@ -76,19 +76,19 @@ Ejecutelo y vea el resultado :D
 
 - - - 
 
-### 🦉 Autor. 🦉 ###
+### 🦉 Autor ###
 
   * *__José Zambrano__* ([OWLjz18](https://github.com/OWLjz18)) => Creador del proyecto.
     * Correo electrónico => <owl.jz18@gmail.com>
 
 - - -
 
-### 🤝 Apoyo. 🤝 ###
+### 🤝 Apoyo ###
 
 Si te gusta el proyecto puedes comentarle a otros sobre él y regalarnos una 🌟.
 
 - - -
 
-### 📃 Licencia. 📃 ###
+### 📃 Licencia ###
 
 Este proyecto esta bajo una licencia MIT, visite el archivo [LICENSE.md](./LICENSE.md) para obtener mas información al respecto.
