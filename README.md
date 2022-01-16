@@ -91,4 +91,4 @@ Si te gusta el proyecto puedes comentarle a otros sobre él y regalarnos una �
 
 ### 📃 Licencia. 📃 ###
 
-Este proyecto esta bajo una licencia MIT, visite el archivo [LICENSE.md](https://github.com/OWLjz18/fetchJS/LICENSE) para obtener mas información al respecto.
+Este proyecto esta bajo una licencia MIT, visite el archivo [LICENSE.md](./LICENSE.md) para obtener mas información al respecto.
