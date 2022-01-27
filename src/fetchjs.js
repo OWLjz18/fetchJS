@@ -1,6 +1,6 @@
 /**
  * @author OWLjz18 <owl.jz18@gmail.com>
- * @version 1.0.1
+ * @version 1.0.2
  * @license MIT > https://github.com/OWLjz18/fetchJS/blob/main/LICENSE.md
 */
 
