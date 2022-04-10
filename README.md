@@ -79,7 +79,7 @@ Ejecutelo y vea el resultado :D
 ### 🦉 Autor ###
 
   * *__José Zambrano__* ([OWLjz18](https://github.com/OWLjz18)) => Creador del proyecto.
-    * Instagram => [owl.jz18](https://instagram.com/owl.jz18)
+    * Instagram => [@owljz18](https://instagram.com/owljz18)
     * Correo electrónico => <owl.jz18@gmail.com>
 
 - - -
